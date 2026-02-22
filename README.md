@@ -7,8 +7,12 @@ w/ Angela Nadine Junda and John
 
 # SDSC Expanse Setup
 ```
+Time Limit: 02:00:00
+Num Cores: 8
+Memory Required Per Node: 64 GB
+GPUs: 0
 ```
 ## Screenshot of Spark UI showing multiple executors active during data loading
-- [ ] Add Image
+See Jupyter Notebook.
 
 
