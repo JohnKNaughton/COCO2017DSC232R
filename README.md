@@ -1,5 +1,5 @@
 # COCO2017DSC232R
-Repo for UCSD DSC232R Group Project using COCO2017 dataset
+Repo for UCSD DSC232R Group Project using NYC Taxi dataset
 w/ Angela Nadine Junda and John
 
 - Link to dataset: [The NYC Yellow Taxi dataset](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
