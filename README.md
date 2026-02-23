@@ -1,4 +1,4 @@
-# COCO2017DSC232R
+# NYC Taxi Data Set
 Repo for UCSD DSC232R Group Project using NYC Taxi dataset
 w/ Angela Nadine Junda and John
 
